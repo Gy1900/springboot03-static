@@ -13,7 +13,7 @@ import java.util.Map;
 
 /**
  * Created by gy on 2019/5/30 0030 18:24
- *
+ * <p>
  * 返回String，但是在MymvcConfig中会映射成ModelAndView（addViewControllers：registry.addViewController("/main.html").setViewName("dashboard");）
  */
 @Controller
